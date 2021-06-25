@@ -46,8 +46,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mhalmenschlager
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Matheus-Halmenschlager
 - icon: github
   icon_pack: fab
