@@ -44,7 +44,8 @@ experience:
     location: Arauca, Colombia
     date_start: '2017-08-10'
     date_end: '2017-12-10'
-    description: Taxonomía de los especímenes de Vespidae (Hymenoptera: Vespoidea) en la Colección Entomológica de la Orinoquía, Arauca, departamento de Arauca, Colombia. Estudios sobre la taxonomía y ecología de las avispas sociales orinocenses.
+    description: |2-
+        Taxonomía de los especímenes de Vespidae (Hymenoptera: Vespoidea) en la Colección Entomológica de la Orinoquía, Arauca, departamento de Arauca, Colombia. Estudios sobre la taxonomía y ecología de las avispas sociales orinocenses.
 
 design:
   columns: '2'
