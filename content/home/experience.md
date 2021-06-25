@@ -25,7 +25,7 @@ experience:
   - title: Bolsista de Iniciação Científica
     company: Laboratório de Entomologia da UNISC
     company_url: 'http://unisc.br'
-    company_logo: ''
+    company_logo: 'http://www.unisc.br/site/wtim/imagens/unisclogoquadradro.png'
     location: Santa Cruz do Sul
     date_start: '2012-12-01'
     date_end: '2017-12-31'
@@ -40,7 +40,7 @@ experience:
   - title: Estagiário de Pesquisa
     company: Universidad Nacional de Colombia - Sede Orinoquía
     company_url: 'http://orinoquia.unal.edu.co/'
-    company_logo: ''
+    company_logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg/798px-Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg.png'
     location: Arauca, Colombia
     date_start: '2017-08-10'
     date_end: '2017-12-10'
