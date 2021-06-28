@@ -16,7 +16,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Acompanhe no LinkedIn
-  url: https://github.com/mhalmenschlager/notebooks
+  url: https://www.linkedin.com/in/matheus-halmenschlager-294957b6/
 url_code: ""
 url_pdf: ""
 url_slides: ""
