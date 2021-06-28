@@ -26,7 +26,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Caderno de Pesquisa: Série Biologia*
+publication: In *Caderno de Pesquisa Série Biologia*
 publication_short: In *CdP*
 
 abstract: The occurrence of genera and species of Eulophinae in Rio Grande do Sul is briefly analyzed, and a commented list of genera, as well as a dichotomous key, are provided. There is a new registry of species for the Brazilian and South American eulophine fauna, and for the state there is one new genus occurrence, as well as three new species.
