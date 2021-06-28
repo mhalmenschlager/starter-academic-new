@@ -41,10 +41,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 # - name: Custom Link
 #   url: http://example.org
 
+- name: PDF
 url_pdf: 'https://online.unisc.br/seer/index.php/cadpesquisa/article/view/12733/7928'
 #url_code: ''
 #url_dataset: ''
