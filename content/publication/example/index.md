@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: PDF
-url: https://online.unisc.br/seer/index.php/cadpesquisa/article/view/12733/7928
+# links:
+# - name: PDF
+# url: https://online.unisc.br/seer/index.php/cadpesquisa/article/view/12733/7928
 
 url_pdf: ''
 url_code: ''
