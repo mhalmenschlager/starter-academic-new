@@ -1,22 +1,22 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Notebooks de Data Science
+summary: Notebooks com análises, códigos, e apontamentos, baseados em treinamentos e cursos
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Data Science
+date: "2021-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/mhalmenschlager/notebooks"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Acompanhe no LinkedIn
+  url: https://github.com/mhalmenschlager/notebooks
 url_code: ""
 url_pdf: ""
 url_slides: ""
