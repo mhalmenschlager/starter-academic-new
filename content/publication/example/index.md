@@ -42,18 +42,17 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-# - name: Custom Link
-#   url: http://example.org
-
 - name: PDF
-url_pdf: 'https://online.unisc.br/seer/index.php/cadpesquisa/article/view/12733/7928'
-#url_code: ''
-#url_dataset: ''
-#url_poster: ''
-#url_project: ''
-#url_slides: ''
-#url_source: ''
-#url_video: ''
+url: https://online.unisc.br/seer/index.php/cadpesquisa/article/view/12733/7928
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
