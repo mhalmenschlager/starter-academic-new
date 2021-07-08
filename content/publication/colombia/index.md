@@ -1,12 +1,13 @@
 ---
-title: "A brief review of the occurrence of Eulophinae (Hymenoptera: Eulophidae) for the Rio Grande do Sul state, with a key to genera"
+title: "New records of Vespidae (Hymenoptera: Vespoidea) for the Colombian Orinoco Region"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Andreas Köhler
+- Juan Carlos Agudelo Martínez
+- Néstor Fernando Pérez-Buitrago
 
 # Author notes (optional)
 author_notes:
@@ -14,7 +15,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2019-02-04T00:00:00Z"
-doi: "10.17058/cp.v30i3.12733"
+doi: "10.21068/c2019.v20n01a02"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,14 +27,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Caderno de Pesquisa Série Biologia*
-publication_short: In *CdP*
+publication: In *Biota Colombiana*
+publication_short: In *Biot. Col.*
 
-abstract: The occurrence of genera and species of Eulophinae in Rio Grande do Sul is briefly analyzed, and a commented list of genera, as well as a dichotomous key, are provided. There is a new registry of species for the Brazilian and South American eulophine fauna, and for the state there is one new genus occurrence, as well as three new species.
+abstract: We analyzed 72 speciemens from the Arauca (71) and Casanare (1) departments in the Orinoco region of Colombia. The specimens belong to 10 genera and 18 species of vespid wasps. Four species are reported for the first time for the region and 14 are new records for the Arauca department. There is a likely new record of Stenodynerus cf. australis for the Neotropical region.
 
 
-# Summary. An optional shortened abstract.
-summary: The occurrence of genera and species of Eulophinae in Rio Grande do Sul is briefly analyzed, and a commented list of genera, as well as a dichotomous key, are provided. There is a new registry of species for the Brazilian and South American eulophine fauna, and for the state there is one new genus occurrence, as well as three new species.
+# Summary. We analyzed 72 speciemens from the Arauca (71) and Casanare (1) departments in the Orinoco region of Colombia. The specimens belong to 10 genera and 18 species of vespid wasps. Four species are reported for the first time for the region and 14 are new records for the Arauca department. There is a likely new record of Stenodynerus cf. australis for the Neotropical region.
 
 tags: []
 
