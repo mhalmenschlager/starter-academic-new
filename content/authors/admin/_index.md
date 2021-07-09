@@ -72,4 +72,4 @@ highlight_name: false
 
 Formado em Ciências Biológicas pela Universidade de Santa Cruz do Sul, com experiências em Entomologia e Ecologia. Entusiasta de Sistemas de Informações Geográficas, Geoprocessamento e assuntos relacionados. Cientista de dados júnior, possui experiências com Python e suas bibliotecas, R, Power BI e outras ferramentas. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Você pode fazer o download do meu currículo {{< staticref "uploads/resume.pdf" "newtab" >}}aqui{{< /staticref >}}.
