@@ -1,15 +1,14 @@
 ---
-title: Notebooks de Data Science
-summary: Notebooks com análises, códigos, e apontamentos, baseados em treinamentos e cursos
+title: Projetos em Geoprocessamento e Cartografia
+summary: Projetos de mapas, análises espaciais e posts sobre cartografia, geoprocessamento, e SIG discutindo conceitos e ideias.
 tags:
-- Data Science
+- GIS
 date: "2021-03-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mhalmenschlager/notebooks"
-
+external_link: "https://blog.matheusyuri.pro"
 image:
-  caption:
+  caption: 
   focal_point: Smart
 
 links:

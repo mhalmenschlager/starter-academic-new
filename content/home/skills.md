@@ -16,14 +16,34 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+- description: 15%
+  icon: linux
+  icon_pack: fab
+  name: Linux
+- description: 75%
+  icon: windows
+  icon_pack: fab
+  name: Windows
+- description: 25%
+  icon: database
+  icon_pack: fas
+  name: SQL
+- description: 50%
+  icon: file-excel
+  icon_pack: fas
+  name: Office Excel, Google Sheets
 - description: 50%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 50%
+  icon: globe-americas
+  icon_pack: fas
+  description: SIG
+- description: 75%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Estatística
 - description: 50%
   icon: python
   icon_pack: fab
