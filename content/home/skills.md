@@ -43,7 +43,7 @@ feature:
 - description: 50%
   icon: globe-americas
   icon_pack: fas
-  description: SIG
+  name: SIG
 - description: 75%
   icon: chart-line
   icon_pack: fas
