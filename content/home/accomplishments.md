@@ -23,29 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://mycourse.app/heKzjrAid5UH2MSi8
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2020-12-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Data Science Academy
+  organization_url: ""
+  title: 'Introdução à Ciência de Dados 2.0'
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://credentials.databricks.com/fdd84b9f-0397-400d-b23c-f1bd132faceb
+  date_end: "2022-06-30"
+  date_start: "2021-06-30"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Databricks
+  organization_url: https://www.edx.org
+  title: 'Databricks Academy - Delta Lake Essentials
+  url: ""
+- certificate_url: https://credentials.databricks.com/48eaf068-825a-4d9b-b460-8bdb3add7ff1
+  date_end: "2021-06-30"
+  date_start: "2022-06-30"
+  description: ""
+  organization: Databricks
+  organization_url: ""
+  title: 'Deltabricks Academy - Unified Data Analytics Essentials'
   url: ""
 
 design:

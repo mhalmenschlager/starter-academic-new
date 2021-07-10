@@ -1,10 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Apresentação - onde você pode encontrar meu trabalho
+subtitle: Além desse portfólio, há outras partes da Internet onde você pode encontrar meu trabalho e saber mais sobre quem sou. Confira aqui.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
+summary: Além desse portfólio, há outras partes da Internet onde você pode encontrar meu trabalho e saber mais sobre quem sou. Confira aqui.
 # Link this post with a project
 projects: []
 
@@ -30,18 +29,31 @@ image:
 
 authors:
 - admin
-- 吳恩達
 
 tags:
-- Academic
-- 开源
+- Apresentação
 
 categories:
 - Demo
-- 教程
 ---
 
-## Overview
+## Visão geral
+
+### Antes de tudo: Olá, seja bem-vindo(a), e muito prazer!
+
+Meu nome é Matheus Yuri Halmenschlager. À época da escrita desse artigo, tinha 27 anos de idade. Sou bacharel em Ciências Biológicas na Universidade de Santa Cruz do Sul (UNISC), cuja sede é localizada também na minha cidade natal. 
+
+A minha principal motivação para ter seguido esse caminho foi sempre o **conhecimento**. Nas ciências foi que consegui encontrar maneiras para (tentar, ao menos) alcançar respostas para as questões que me inquietavam; estabeleci na **Biologia** um caminho para compreender o mundo e, principalmente, a mim mesmo, sempre orientado por uma visão racional e realista do mundo.
+
+Recentemente, adicionei a **Ciência de Dados** no meu arsenal de habilidades, vivências e aprendizados. Não foi uma escolha fácil, por ter de, praticamente, sair do zero em alguns aspectos, assim como foi quando iniciei minha vida acadêmica. No entanto, tem sido uma riquíssima experiência, a qual tem me motivado a seguir adiante na busca de padrões e respostas através dos dados que o mundo inteiro produz. Os resultados já podem ser vistos: venho produzindo um conteúdo mais extenso na área.
+
+## Por onde começar a ver
+
+Deixarei aqui alguns links da Internet onde meu conteúdo está disponibilizado. Se você ainda não tinha visto ou acessado, estará tudo concentrado aqui:
+
+- Estou sempre compartilhando conteúdo no LinkedIn, tanto de minha autoria, quanto de outras pessoas; é um ótimo espaço para se comunicar comigo e impulsionar ainda mais as áreas de Ciência de Dados, Biologia, e outras relacionadas no país e no mundo;
+- No meu GitHub há um repositório onde concentro meus notebooks de projetos; esse é o lugar para ver e avaliar minhas habilidades em programação, computação e estatística;
+- No meu Instagram você pode me conhecer melhor no âmbito pessoal; terá algumas coisas do meu trabalho, mas estarão misturadas com as vivências que tenho, além de boas ideias e postagens que surgem no feed da plataforma.
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
 2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
