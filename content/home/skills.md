@@ -37,6 +37,10 @@ feature:
   icon_pack: fab
   name: R
 - description: 50%
+  icon: git-alt
+  icon_pack: fab
+  name: Git
+- description: 50%
   icon: globe-americas
   icon_pack: fas
   description: SIG
