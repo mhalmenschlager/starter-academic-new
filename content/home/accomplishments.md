@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Databricks
   organization_url: https://www.edx.org
-  title: 'Databricks Academy - Delta Lake Essentials
+  title: 'Databricks Academy - Delta Lake Essentials'
   url: ""
 - certificate_url: https://credentials.databricks.com/48eaf068-825a-4d9b-b460-8bdb3add7ff1
   date_end: "2021-06-30"
