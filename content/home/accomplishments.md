@@ -45,7 +45,7 @@ item:
   description: ""
   organization: Databricks
   organization_url: ""
-  title: 'Deltabricks Academy - Unified Data Analytics Essentials'
+  title: 'Databricks Academy - Unified Data Analytics Essentials'
   url: ""
 
 design:
