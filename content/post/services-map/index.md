@@ -1,9 +1,10 @@
 ---
-title: Apresentação - onde você pode encontrar meu trabalho
-subtitle: Além desse portfólio, há outras partes da Internet onde você pode encontrar meu trabalho e saber mais sobre quem sou. Confira aqui.
+title: Trabalhos - Mapas
+subtitle: Uma breve descrição sobre meus trabalhos com mapas, além de exemplos.
 
 # Summary for listings and search engines
-summary: Além desse portfólio, há outras partes da Internet onde você pode encontrar meu trabalho e saber mais sobre quem sou. Confira aqui.
+summary: Uma breve descrição sobre meus trabalhos com mapas, além de exemplos.
+
 # Link this post with a project
 projects: []
 
@@ -22,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ""
   placement: 2
   preview_only: false
@@ -39,79 +40,20 @@ categories:
 
 ## Visão geral
 
-### Antes de tudo: Olá, seja bem-vindo(a), e muito prazer!
+Exemplos de posts no LinkedIn sobre mapeamento: [aqui](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6817902329648431104?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIQRuWYkgSf%2BwmKrcMING2w%3D%3D) e [aqui](https://www.linkedin.com/feed/update/urn:li:activity:6816446641608892416/).
 
-Meu nome é Matheus Yuri Halmenschlager. À época da escrita desse artigo, tinha 27 anos de idade. Sou bacharel em Ciências Biológicas na Universidade de Santa Cruz do Sul (UNISC), cuja sede é localizada também na minha cidade natal. 
+Tanto no LinkedIn, quanto no meu blog, estou discorrendo sobre temas envolvendo mapas, como cartografia e Sistema de Informações Geográficas. Lá cito exemplos de como analiso dados, extraio informações de *rasters*, além de produzir outros mapas de relevância, como mapas de localização e temáticos. A produção desses mapas está concentrada em *softwares* como o ArcGIS e o QGIS; no entanto, conforme vou avançando nos experimentos e treinamentos, linguagens como Python e R também aparecerão como exemplos na produção de mapas e análise de dados geográficos.
 
-A minha principal motivação para ter seguido esse caminho foi sempre o **conhecimento**. Nas ciências foi que consegui encontrar maneiras para (tentar, ao menos) alcançar respostas para as questões que me inquietavam; estabeleci na **Biologia** um caminho para compreender o mundo e, principalmente, a mim mesmo, sempre orientado por uma visão racional e realista do mundo.
+### Exemplos
 
-Recentemente, adicionei a **Ciência de Dados** no meu arsenal de habilidades, vivências e aprendizados. Não foi uma escolha fácil, por ter de, praticamente, sair do zero em alguns aspectos, assim como foi quando iniciei minha vida acadêmica. No entanto, tem sido uma riquíssima experiência, a qual tem me motivado a seguir adiante na busca de padrões e respostas através dos dados que o mundo inteiro produz. Os resultados já podem ser vistos: venho produzindo um conteúdo mais extenso na área.
+#### Mapa de Localização - Município de Santa Cruz do Sul
 
-## Por onde começar a ver
+![Localização](C:\Users\USUARIO\Documents\GitHub\starter-academic-new\content\post\services-map\Localização.png)
 
-Deixarei aqui alguns links da Internet onde meu conteúdo está disponibilizado. Se você ainda não tinha visto ou acessado, estará tudo concentrado aqui:
+#### Mapa Hipsométrico (Sensoriamento Remoto) - Municípios de Santa Cruz do Sul e Vera Cruz
 
-- Estou sempre compartilhando conteúdo no LinkedIn, tanto de minha autoria, quanto de outras pessoas; é um ótimo espaço para se comunicar comigo e impulsionar ainda mais as áreas de Ciência de Dados, Biologia, e outras relacionadas no país e no mundo;
-- No meu GitHub há um repositório onde concentro meus notebooks de projetos; esse é o lugar para ver e avaliar minhas habilidades em programação, computação e estatística;
-- No meu Instagram você pode me conhecer melhor no âmbito pessoal; terá algumas coisas do meu trabalho, mas estarão misturadas com as vivências que tenho, além de boas ideias e postagens que surgem no feed da plataforma.
+![Hipsométrico](C:\Users\USUARIO\Documents\GitHub\starter-academic-new\content\post\services-map\Hipsométrico.png)
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+#### Mapa Temático - Parques do estado de Massachusetts, EUA
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-## Get Started
-
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
+![Map](C:\Users\USUARIO\Documents\GitHub\starter-academic-new\content\post\services-map\Map.png)
